@@ -8,3 +8,5 @@ processing capabilities make it an attractive choice for detecting various orang
 greening, and melanose. Researchers have successfully utilized YOLO-V9 to detect these diseases using computer
 vision and deep learning techniques.
 
+
+![Brain tumor](https://github.com/user-attachments/assets/ab41e0b9-727a-484a-b006-ef05ce75b1e4)
