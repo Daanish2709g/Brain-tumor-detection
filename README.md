@@ -10,3 +10,4 @@ vision and deep learning techniques.
 
 
 ![Brain tumor](https://github.com/user-attachments/assets/ab41e0b9-727a-484a-b006-ef05ce75b1e4)
+glioblastoma multiforme (https://github.com/user-attachments/assets/f29bc32f-7ccc-4314-8aac-1937cf46f735)
