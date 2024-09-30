@@ -1,5 +1,6 @@
 gelan-c
 
+
 !python detect.py --weights {HOME}/weights/gelan-c.pt --conf 0.1 --source {HOME}/data/dog.jpeg --device 0
 
 NOTE: By default, the results of each subsequent inference sessions are saved in {HOME}/yolov9/runs/detect/, 
